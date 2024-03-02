@@ -1,17 +1,18 @@
 ### Hi there, nice to meet you 👋
-I'm Riccardo Aielli and i'm currently working on a thesis at RecSys Lab @Polimi.  
+I'm Riccardo Aielli.  
 Here you can find most of my works and projects.
 ***
 
 🎓 Education:
-- Pursuing my Master's Degree in Computer Science and Engineering at Politecnico di Milano
+- Master's Degree in Computer Science and Engineering at Politecnico di Milano
 - Bachelor in Computer Science and Engineering at Politecnico di Milano
 <!--Master in Computer Science and Engineering at Politecnico di Milano-->
 
 📌 Projects:
+- [Artificial Neural Networks and Deep Learning Challenges](https://github.com/riccardoaielli/ANNDLProject2022)
 - [Boat Runner](https://github.com/riccardoaielli/CGProject2022)
-- [Telco company website simulation](https://github.com/riccardoaielli/DB2Project2022)
-- [Multiplayer board game - Masters of Renaissance](https://github.com/riccardoaielli/INGSWProject2021)
+- [Telco Company Website Simulation](https://github.com/riccardoaielli/DB2Project2022)
+- [Multiplayer Board Game - Masters of Renaissance](https://github.com/riccardoaielli/INGSWProject2021)
 - [Digital Logic Design Project](https://github.com/riccardoaielli/RLProject2020)
 - [Theoretical Computer Science Project](https://github.com/riccardoaielli/APIProject2020)
 
@@ -26,7 +27,7 @@ Here you can find most of my works and projects.
 
 🙋🏼‍♂️ About me
 - :computer: I keep working to improve my coding skills
-- 🏃 I am an enthusiast runner
+- 🏃 I am an enthusiastic runner
 - :recycle: I love giving a second life to old objects
 - :rocket: My dream is to become an entrepreneur leading my own business
 - :fr: I’m currently learning French
