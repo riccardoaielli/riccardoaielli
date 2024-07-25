@@ -31,4 +31,4 @@ Here you can find most of my works and projects.
 - 🏃 I am an enthusiastic runner
 - :recycle: I love giving a second life to old objects
 - :rocket: My dream is to become an entrepreneur leading my own business
-- :fr: I’m currently learning French
+- :de: I’m currently learning German
