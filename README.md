@@ -9,6 +9,7 @@ Here you can find most of my works and projects.
 <!--Master in Computer Science and Engineering at Politecnico di Milano-->
 
 📌 Projects:
+- [Reproducibility Study of Recommendation Systems - Master's Thesis](https://github.com/riccardoaielli/ReproducibilityStudyofRecommendationSystemsMasterThesis2023)
 - [Artificial Neural Networks and Deep Learning Challenges](https://github.com/riccardoaielli/ANNDLProject2022)
 - [Boat Runner](https://github.com/riccardoaielli/CGProject2022)
 - [Telco Company Website Simulation](https://github.com/riccardoaielli/DB2Project2022)
