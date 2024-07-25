@@ -19,7 +19,7 @@ Here you can find most of my works and projects.
 📢 Contacts:
 <!--<a href=”https://www.linkedin.com/in/riccardoaielli"><img align=”left” src=”" alt=”icon | LinkedIn” width=”21px”/></a>-->
 - [`LinkedIn`](https://www.linkedin.com/in/riccardoaielli)
-- `riccardo.aielli@outlook.it`
+- `riccardo.aielli@outlook.com`
 
 🌱 I'm currently learning
 - JavaScript
